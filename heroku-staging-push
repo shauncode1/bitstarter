@@ -1,0 +1,2 @@
+#!/bin/sh
+git push staging-heroku staging:master

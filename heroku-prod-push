@@ -1,0 +1,2 @@
+#!/bin/sh
+git push production-heroku master:master
